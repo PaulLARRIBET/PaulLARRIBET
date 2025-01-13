@@ -1,4 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul LARRIBET =====================================================================================================================================  Quantitative Finance student ----------------------------  La Sorbonne University Paris, France | September 2024-July 2025 Master of Science in Quantitative Finance Relevant coursework : Stochastic Calculus, Arbitrage Theory, Financial Products, Statistical Learning, Yield Curve Models, Algorithmic Trading, Malliavin Calculus, Monte-Carlo Methods, Machine Learning, Risk Measures, Calibration in Quantitative Finance 
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Paul LARRIBET, I'm a quantitative finance student
+
+My scolarship : 
+
+La Sorbonne University Paris, France | September 2024-July 2025 Master of Science in Quantitative Finance Relevant coursework : Stochastic Calculus, Arbitrage Theory, Financial Products, Statistical Learning, Yield Curve Models, Algorithmic Trading, Malliavin Calculus, Monte-Carlo Methods, Machine Learning, Risk Measures, Calibration in Quantitative Finance 
 
 Ecole des Mines Saint-Etienne, France | September 2021-July 2023 Bachelor Degree in Engineering Relevant coursework : Common Core in Mathematics, Physics, Computer Science, Economics and Specialisation in Data Science, Artificial Intelligence, Statistics, International Finance  
 * 🌍  I'm based in Paris
